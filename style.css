@@ -5,7 +5,7 @@ body {
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
-  background-color: #eae2b7  /* added */
+  background-color: #eae2b7;  /* added */
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -13,6 +13,7 @@ h1,
 h2,
 h3 {
   font-family: "Playfair Display", Times, serif;
+  text-align: center;  /* added to center heading */
 }
 
 /* Add padding on left and right sides of each anchor tag within nav element */
@@ -21,7 +22,7 @@ nav a {
 }
 
 article {
-  padding: 50px 0;
+  padding: 30px 0;  /* reduced from 50px */
 }
 
 article div {
