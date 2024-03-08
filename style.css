@@ -17,7 +17,7 @@ h3 {
 
 /* Add padding on left and right sides of each anchor tag within nav element */
 nav a {
-    padding: 10px;
+    padding: 0 10px;
 }
 
 article {
