@@ -13,7 +13,6 @@ h1,
 h2,
 h3 {
   font-family: "Playfair Display", Times, serif;
-  text-align: center;  /* added to center heading */
 }
 
 /* Add padding on left and right sides of each anchor tag within nav element */
