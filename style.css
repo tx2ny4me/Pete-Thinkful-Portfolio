@@ -15,6 +15,11 @@ h3 {
   font-family: "Playfair Display", Times, serif;
 }
 
+/* Add padding on left and right sides of each anchor tag within nav element */
+nav a {
+    padding: 10px;
+}
+
 article {
   padding: 50px 0;
 }
